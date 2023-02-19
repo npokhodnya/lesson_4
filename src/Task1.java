@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class Main {
+public class Task1 {
     public static void main(String[] args) {
         var a = new LinkedList<Integer>();
         a.add(1);
